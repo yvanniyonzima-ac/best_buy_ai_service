@@ -15,33 +15,33 @@ This page
 This material
 [END LIST]
 
-describe the following product sold in a pet supplies store:
-Product name: Mermaid's Mice Trio
-tags: cat, multiple, catnip
+describe the following product sold in an electronics supplies store:
+Product name: ASUS Prime Radeon RX 9070 OC 16GB GDDR6 Video Card
+tags: videocard, asus, radeon
 +++++
-Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.
+Boost your CPU's power with the ASUS Prime Radeon RX 9070 OC video card. Equipped with advanced axial-tech fans and a phase-change GPU thermal pad, it offers optimal cooling and performance.
 
-describe the following product sold in a pet supplies store:
-Product name: Anchors Away Chew Toy
-tags: dog, teeth
+describe the following product sold in an electronics supplies store:
+Product name: Blutron EB570 Electric Commuter Bike
+tags: bike, electric
 +++++
-Keep your dog's teeth and gums shipshape with the Anchors Away Chew Toy. Made from durable materials, it satisfies their chewing instincts while promoting dental health.
+Experience smooth and swift city rides with Blutron EB570 electric bike. Its 350W motor powers you to speeds of up to 32km/h, making commutes quick and efficient.
 
-describe the following product sold in a pet supplies store:
-Product name: Pirate Parrot Teaser Wand
-tags: dog, colorful
+describe the following product sold in an electronics supplies store:
+Product name: bObsweep UltraVision WiFi Connected Self-Empty Robot Vacuum & Mop
+tags: vacuum, robot, wifi
 +++++
-Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.
+Keep your house clean and spotless with the bObsweep UltraVision robot vacuum and mop. With a powerful 1,200W self-emptying station, 8,000Pa suction, and Low-height Object-aware Technology, it helps you tackle dirt and debris effortlessly.
 
 
-describe the following product sold in a pet supplies store:
-product name: Seashell Snuggle Bed
-tags: dog, cat, comfort
+describe the following product sold in an electronics supplies store:
+product name: Amazon Echo Show 21 Smart Display with Alexa
+tags: amazon, display, alexa, echo
 +++++
-Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.
+Elevate your kitchen experience with the Amazon Echo Show 21 Smart display. Its 21-inch Full HD screen delivers crystal-clear visuals, while built-in Fire TV and Alexa provide seamless entertainment and smart home control.
 
 
-describe the following product sold in a pet supplies store:
+describe the following product sold in an electronics supplies store:
 Product name: {{$name}}
 tags: {{$tags}}
 +++++
