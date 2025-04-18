@@ -19,13 +19,13 @@ describe the following product sold in an electronics supplies store:
 Product name: ASUS Prime Radeon RX 9070 OC 16GB GDDR6 Video Card
 tags: videocard, asus, radeon
 +++++
-Boost your CPU's power with the ASUS Prime Radeon RX 9070 OC video card. Equipped with advanced axial-tech fans and a phase-change GPU thermal pad, it offers optimal cooling and performance.
+Boost your system's graphics performance with the ASUS Prime Radeon RX 9070 OC video card. Equipped with advanced axial-tech fans and a phase-change GPU thermal pad, it offers optimal cooling and performance.
 
 describe the following product sold in an electronics supplies store:
 Product name: Blutron EB570 Electric Commuter Bike
 tags: bike, electric
 +++++
-Experience smooth and swift city rides with Blutron EB570 electric bike. Its 350W motor powers you to speeds of up to 32km/h, making commutes quick and efficient.
+Experience smooth and swift city rides with the Blutron EB570 electric bike. Its 350W motor powers you to speeds of up to 32km/h, making commutes quick and efficient.
 
 describe the following product sold in an electronics supplies store:
 Product name: bObsweep UltraVision WiFi Connected Self-Empty Robot Vacuum & Mop
@@ -33,13 +33,11 @@ tags: vacuum, robot, wifi
 +++++
 Keep your house clean and spotless with the bObsweep UltraVision robot vacuum and mop. With a powerful 1,200W self-emptying station, 8,000Pa suction, and Low-height Object-aware Technology, it helps you tackle dirt and debris effortlessly.
 
-
 describe the following product sold in an electronics supplies store:
-product name: Amazon Echo Show 21 Smart Display with Alexa
+Product name: Amazon Echo Show 21 Smart Display with Alexa
 tags: amazon, display, alexa, echo
 +++++
-Elevate your kitchen experience with the Amazon Echo Show 21 Smart display. Its 21-inch Full HD screen delivers crystal-clear visuals, while built-in Fire TV and Alexa provide seamless entertainment and smart home control.
-
+Elevate your kitchen experience with the Amazon Echo Show 21 Smart Display. Its 21-inch Full HD screen delivers crystal-clear visuals, while built-in Fire TV and Alexa provide seamless entertainment and smart home control.
 
 describe the following product sold in an electronics supplies store:
 Product name: {{$name}}
